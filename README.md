@@ -1,7 +1,9 @@
-# multiBF_ig
+# R-27
+> Present : Indonesian Fighter Cyber
+# IG-Crack
 > Feature
-+ multi thread
-+ Just need username instagram
++ Multi thread
++ It's simply, use the username and password for cracking
 + Use proxy [ TOR ]
 + Support multiple user + pass
 
@@ -11,5 +13,5 @@
 
 > running tools
 + Open new sessions and type command tor
-+ Back to dir multiBF_ig and type bash brute.sh
-+ Have more question ? contact me : https://fb.me/n00b.me
++ Back to dir IG-Crack and type bash brute.sh
++ Contact Developer : https://instagram.com/_rafszz?igshid=1x4b7hm21o058
